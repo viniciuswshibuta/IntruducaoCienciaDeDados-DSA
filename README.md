@@ -1,4 +1,4 @@
-#Curso Introdução à Ciência de Dados 3.0 
+# Curso Introdução à Ciência de Dados 3.0 
 Repositório contendo documentação dos capítulos estudados no curso Introdução à Ciência de Dados 
 
 <div>
