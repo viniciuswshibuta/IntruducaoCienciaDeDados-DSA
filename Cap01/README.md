@@ -28,3 +28,18 @@
 5. Migre sua carreira com uma visão de médio/longo prazo. Não será rápido para conseguir uma nova vaga e não terá lucros imensos. 
 
 </div>
+
+<div>
+
+  Foi apresentado guias sobre as carreiras dentro de Ciência de Dados, são elas:
+  * Analista de Dados.
+  * Cientista de Dados.
+  * Engenheiro de Dados.
+  * Engenheiro de Machine Learning
+  * Engenheiro de Blockchain
+  * Desenvolver RPA
+  * Arquiteto de Dados
+  * Engenheiro de IA
+ 
+
+</div>
