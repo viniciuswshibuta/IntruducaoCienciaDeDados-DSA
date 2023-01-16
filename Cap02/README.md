@@ -56,3 +56,39 @@ Resolver problemas de negócio e conhecimento de domínio (área de negócio) é
 * Solução de Problemas
 * Método Científico
 </div>
+
+## Dados e Tomada de Decisão.
+<div>
+
+A Ciência de Dados é a responsável por ligar dados brutos a até uma tomada de decisão, para isso existe um processo: <br/>
+
+* Começamos com a definição de um problema de negócio, 
+* Recolhemos os dados necessários, decisões serão tomadas com base na análise, 
+* E então algumas ações poderão ser realizadas. 
+
+### Exemplo:
+**Problema identificado:** Clientes cancelam seus planos de telefonia com frequência de 2 a 3 meses após assinatura do plano.
+
+**1°) Dados e Análise:** Dados coletados e analisados, levaram à conclusão de que existe uma tendência entre os clientes de operadoras de telefonia em trocar de operadora após o terceiro contato com o atendimento ao cliente. 
+
+**2°) Decisão:** Os executivos da empresa, baseados em dados, decidiram rever todos os procedimentos de atendimento ao cliente. 
+
+**3°) Ação:** A empresa contratou uma consultoria para fornecer treinamento especializado de atendiemnto ao cliente, passou a monitorar as ligações, criou programas de incentivo aos melhores operadores, etc...
+
+***O principal objetivo é extrair informações dos dados e transformá-las em conhecimento que possam ser usadas para a tomada de decisões.***
+ 
+## O processo *Data-Driven*
+
+Ciência de Dados vai nos ajudar a responder 4 perguntas principais. São elas:
+* O que aconteceu?
+* Por que aconteceu?
+* Acontecerá novamente? (Através de modelagem preditiva - Machine Learning)
+* O que deve ser feito? (Trazer sugestões, mas o Cientista de Dados não é responsável pela tomada de decisão)
+
+Esse processo da Ciência de Dados que vai dos dados brutos à tomada de decisão é o que gera valor. 
+
+## É preciso graduação ou pós para trabalhar com Ciência de Dados?
+
+Existem diversas funções dentro de Ciência de Dados:
+
+</div>
