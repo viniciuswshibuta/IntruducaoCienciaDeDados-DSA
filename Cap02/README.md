@@ -90,5 +90,19 @@ Esse processo da Ciência de Dados que vai dos dados brutos à tomada de decisã
 ## É preciso graduação ou pós para trabalhar com Ciência de Dados?
 
 Existem diversas funções dentro de Ciência de Dados:
+  * Analista de Dados.
+  * Cientista de Dados.
+  * Engenheiro de Dados.
+  * Engenheiro de Machine Learning
+  * Engenheiro de Blockchain
+  * Desenvolver RPA
+  * Arquiteto de Dados
+  * Engenheiro de IA<br/>
+
+Estas são **FUNÇÕES** e não **PROFISSÕES**.<br/>
+Isso significa que não existe regulamentação e qualquer profissional, com ou sem graduação, pode exercer as **funções.**<br/>
+
+A pergunta ideal seria:<br/>
+***Qual curso de graduação poderia ser mais útil para trabalhar com Ciência de Dados?***
 
 </div>
