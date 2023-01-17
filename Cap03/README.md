@@ -21,4 +21,24 @@ Embora os termos "dados" e "informações" sejam frequentemente usados de forma 
 #### Tenho várias fontes de dados e agora?
 O primeiro passo é a **coleta** necessária. Fazemos uma **correlação** entre os dados de 2 ou mais fontes. É feita **análise** através das técnicas de Ciência de dados. Dessa forma conseguimos dar os **insights** para os tomadores de decisão. 
 
+## O que os Dados Representam?
+  * Entidade
+  * Características
+  * Ambiente
+  * Evento
+  * Comportamento
+  * Resultado
+  * Observação
+  * Medição
+  * Suposição
+
+## Dados e Informação
+Dados são coleções de fatos, tais como números, palavras, mediçõs, observações ou mesmo apenas descrições de coisas. Os dados podem ser qualquer caracter, texto, palavra, números, imagens, som ou vídeo e, se não colocados em contexto, significam pouco ou quase nada para um ser humano. <br/>
+
+No entanto, a informação é útil e formatada de uma maneira geral, permitindo que seja entendida por um ser humano. <br/>
+
+### Exemplo:
+Dado um número "55-21-9999-9999" mas sem contexto, não conseguimos compreender sobre o que seria este dado. Porém quando colocamos em contexto, chegamos a informação sobre o que se trata o dado. 
+
+
 </div>
