@@ -38,6 +38,8 @@ Dados são coleções de fatos, tais como números, palavras, mediçõs, observa
 No entanto, a informação é útil e formatada de uma maneira geral, permitindo que seja entendida por um ser humano. <br/>
 
 ### Exemplo:
+<img src="https://github.com/viniciuswshibuta/IntruducaoCienciaDeDados-DSA/issues/3#issue-1536717696.png"/>
+
 Dado um número "55-21-9999-9999" mas sem contexto, não conseguimos compreender sobre o que seria este dado. Porém quando colocamos em contexto, chegamos a informação sobre o que se trata o dado. 
 
 
