@@ -16,6 +16,8 @@ Embora os termos "dados" e "informações" sejam frequentemente usados de forma 
   * TV e Vídeo
   * Sensores e Sistemas de Monitoramento
 
+![De onde vem os dados](https://user-images.githubusercontent.com/110253107/212936767-72f504e0-3e1e-4317-b7c1-f8d4c7a68352.png)
+
 #### Tenho várias fontes de dados e agora?
 O primeiro passo é a **coleta** necessária. Fazemos uma **correlação** entre os dados de 2 ou mais fontes. É feita **análise** através das técnicas de Ciência de dados. Dessa forma conseguimos dar os **insights** para os tomadores de decisão. 
 
