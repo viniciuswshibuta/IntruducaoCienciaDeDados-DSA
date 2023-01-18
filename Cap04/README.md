@@ -59,7 +59,7 @@ A Ciência de Dados utiliza os métodos estatísticos para explorar e analisar d
 
 ## Como aprender estatística para Ciência de Dados?
 
-![nivel-conhecimento-estatistica]()
+![nivel-conhecimento-estatistica](https://user-images.githubusercontent.com/110253107/213274345-f8c41271-4d48-4372-83f0-a656280dce5b.png)
 
 **Os cientistas de dados possuem 3 características principais:**
 1. Forte conhecimento de Estatística e aprendizado de máquina, pelo menos o suficiente para evitar má interpretação de correlação e casualidade.
@@ -70,7 +70,7 @@ A Ciência de Dados utiliza os métodos estatísticos para explorar e analisar d
 
 Não espere que você entenda completamente todos os detalhes sobre um processo, antes de começar a aplicar seu conhecimento. A compreensão vem à medida que você aplica seu conhecimento. 
 
-> Quanto mais você aplica o seu conhecimento, mais você aprende!
+> **Quanto mais você aplica o seu conhecimento, mais você aprende!**
 
 
 </div>
